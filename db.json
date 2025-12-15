@@ -1,0 +1,125 @@
+{
+  "distribuitors":[
+  {
+    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0001",
+    "taxId": "20123456789",
+    "legalName": "Andes Hardware Solutions SAC",
+    "distributorType": "HARDWARE",
+    "status": "ACTIVE",
+    "contacts": [
+      {
+        "firstName": "Carlos",
+        "lastName": "Mendoza Ruiz",
+        "jobTitle": "Sales Manager",
+        "department": "Sales",
+        "phoneNumber": "+51911122334",
+        "email": "carlos.mendoza@andes-hw.com"
+      }
+    ],
+    "address": {
+      "addressLine1": "Av. Arequipa 1200",
+      "city": "Lima",
+      "stateOrRegion": "Lima",
+      "postalCode": "15046",
+      "country": "PE"
+    }
+  },
+  {
+    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0002",
+    "taxId": "20456789123",
+    "legalName": "Pacific Tech Distributors SAC",
+    "distributorType": "SOFTWARE",
+    "status": "ACTIVE",
+    "contacts": [
+      {
+        "firstName": "María",
+        "lastName": "Salazar Pinto",
+        "jobTitle": "Account Executive",
+        "department": "Commercial",
+        "phoneNumber": "+51922233445",
+        "email": "maria.salazar@pacifictech.com"
+      }
+    ],
+    "address": {
+      "addressLine1": "Calle Las Begonias 415",
+      "city": "San Isidro",
+      "stateOrRegion": "Lima",
+      "postalCode": "15073",
+      "country": "PE"
+    }
+  },
+  {
+    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0003",
+    "taxId": "20567891234",
+    "legalName": "Innova Servicios Digitales SAC",
+    "distributorType": "SERVICE",
+    "status": "ACTIVE",
+    "contacts": [
+      {
+        "firstName": "Jorge",
+        "lastName": "Quispe Flores",
+        "jobTitle": "Operations Manager",
+        "department": "Operations",
+        "phoneNumber": "+51933344556",
+        "email": "jorge.quispe@innovaservicios.pe"
+      }
+    ],
+    "address": {
+      "addressLine1": "Jr. Puno 890",
+      "city": "Arequipa",
+      "stateOrRegion": "Arequipa",
+      "postalCode": "04001",
+      "country": "PE"
+    }
+  },
+  {
+    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0004",
+    "taxId": "20678912345",
+    "legalName": "Global IT Hardware SAC",
+    "distributorType": "HARDWARE",
+    "status": "INACTIVE",
+    "contacts": [
+      {
+        "firstName": "Rosa",
+        "lastName": "Vargas León",
+        "jobTitle": "Purchasing Lead",
+        "department": "Procurement",
+        "phoneNumber": "+51944455667",
+        "email": "rosa.vargas@globalit.com"
+      }
+    ],
+    "address": {
+      "addressLine1": "Av. Grau 345",
+      "city": "Trujillo",
+      "stateOrRegion": "La Libertad",
+      "postalCode": "13001",
+      "country": "PE"
+    }
+  },
+  {
+    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0005",
+    "taxId": "20789123456",
+    "legalName": "SoftCore Solutions SAC",
+    "distributorType": "SOFTWARE",
+    "status": "ACTIVE",
+    "contacts": [
+      {
+        "firstName": "Daniel",
+        "lastName": "Rojas Castillo",
+        "jobTitle": "Business Development Manager",
+        "department": "Business",
+        "phoneNumber": "+51955566778",
+        "email": "daniel.rojas@softcore.pe"
+      }
+    ],
+    "address": {
+      "addressLine1": "Av. El Derby 250",
+      "city": "Santiago de Surco",
+      "stateOrRegion": "Lima",
+      "postalCode": "15023",
+      "country": "PE"
+    }
+  }
+]
+
+}
