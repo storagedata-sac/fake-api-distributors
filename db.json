@@ -4,7 +4,6 @@
     "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0001",
     "taxId": "20123456789",
     "legalName": "Andes Hardware Solutions SAC",
-    "distributorType": "HARDWARE",
     "status": "ACTIVE",
     "contacts": [
       {
@@ -28,7 +27,6 @@
     "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0002",
     "taxId": "20456789123",
     "legalName": "Pacific Tech Distributors SAC",
-    "distributorType": "SOFTWARE",
     "status": "ACTIVE",
     "contacts": [
       {
@@ -52,7 +50,6 @@
     "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0003",
     "taxId": "20567891234",
     "legalName": "Innova Servicios Digitales SAC",
-    "distributorType": "SERVICE",
     "status": "ACTIVE",
     "contacts": [
       {
@@ -76,7 +73,6 @@
     "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0004",
     "taxId": "20678912345",
     "legalName": "Global IT Hardware SAC",
-    "distributorType": "HARDWARE",
     "status": "INACTIVE",
     "contacts": [
       {
@@ -100,7 +96,6 @@
     "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0005",
     "taxId": "20789123456",
     "legalName": "SoftCore Solutions SAC",
-    "distributorType": "SOFTWARE",
     "status": "ACTIVE",
     "contacts": [
       {
