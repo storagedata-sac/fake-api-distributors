@@ -1,120 +1,349 @@
 {
-  "distributors":[
-  {
-    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0001",
-    "taxId": "20123456789",
-    "legalName": "Andes Hardware Solutions SAC",
-    "status": "ACTIVE",
-    "contacts": [
-      {
-        "firstName": "Carlos",
-        "lastName": "Mendoza Ruiz",
-        "jobTitle": "Sales Manager",
-        "department": "Sales",
-        "phoneNumber": "+51911122334",
-        "email": "carlos.mendoza@andes-hw.com"
+  "distributors": [
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0001",
+      "taxId": "20123456789",
+      "legalName": "Andes Hardware Solutions SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Carlos",
+          "lastName": "Mendoza Ruiz",
+          "jobTitle": "Sales Manager",
+          "department": "Sales",
+          "phoneNumber": "+51911122334",
+          "email": "carlos.mendoza@andes-hw.com"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Arequipa 1200",
+        "city": "Lima",
+        "stateOrRegion": "Lima",
+        "postalCode": "15046",
+        "country": "PE"
       }
-    ],
-    "address": {
-      "addressLine1": "Av. Arequipa 1200",
-      "city": "Lima",
-      "stateOrRegion": "Lima",
-      "postalCode": "15046",
-      "country": "PE"
-    }
-  },
-  {
-    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0002",
-    "taxId": "20456789123",
-    "legalName": "Pacific Tech Distributors SAC",
-    "status": "ACTIVE",
-    "contacts": [
-      {
-        "firstName": "María",
-        "lastName": "Salazar Pinto",
-        "jobTitle": "Account Executive",
-        "department": "Commercial",
-        "phoneNumber": "+51922233445",
-        "email": "maria.salazar@pacifictech.com"
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0002",
+      "taxId": "20456789123",
+      "legalName": "Pacific Tech Distributors SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "María",
+          "lastName": "Salazar Pinto",
+          "jobTitle": "Account Executive",
+          "department": "Commercial",
+          "phoneNumber": "+51922233445",
+          "email": "maria.salazar@pacifictech.com"
+        }
+      ],
+      "address": {
+        "addressLine1": "Calle Las Begonias 415",
+        "city": "San Isidro",
+        "stateOrRegion": "Lima",
+        "postalCode": "15073",
+        "country": "PE"
       }
-    ],
-    "address": {
-      "addressLine1": "Calle Las Begonias 415",
-      "city": "San Isidro",
-      "stateOrRegion": "Lima",
-      "postalCode": "15073",
-      "country": "PE"
-    }
-  },
-  {
-    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0003",
-    "taxId": "20567891234",
-    "legalName": "Innova Servicios Digitales SAC",
-    "status": "ACTIVE",
-    "contacts": [
-      {
-        "firstName": "Jorge",
-        "lastName": "Quispe Flores",
-        "jobTitle": "Operations Manager",
-        "department": "Operations",
-        "phoneNumber": "+51933344556",
-        "email": "jorge.quispe@innovaservicios.pe"
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0003",
+      "taxId": "20567891234",
+      "legalName": "Innova Servicios Digitales SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Jorge",
+          "lastName": "Quispe Flores",
+          "jobTitle": "Operations Manager",
+          "department": "Operations",
+          "phoneNumber": "+51933344556",
+          "email": "jorge.quispe@innovaservicios.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Jr. Puno 890",
+        "city": "Arequipa",
+        "stateOrRegion": "Arequipa",
+        "postalCode": "04001",
+        "country": "PE"
       }
-    ],
-    "address": {
-      "addressLine1": "Jr. Puno 890",
-      "city": "Arequipa",
-      "stateOrRegion": "Arequipa",
-      "postalCode": "04001",
-      "country": "PE"
-    }
-  },
-  {
-    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0004",
-    "taxId": "20678912345",
-    "legalName": "Global IT Hardware SAC",
-    "status": "INACTIVE",
-    "contacts": [
-      {
-        "firstName": "Rosa",
-        "lastName": "Vargas León",
-        "jobTitle": "Purchasing Lead",
-        "department": "Procurement",
-        "phoneNumber": "+51944455667",
-        "email": "rosa.vargas@globalit.com"
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0004",
+      "taxId": "20678912345",
+      "legalName": "Global IT Hardware SAC",
+      "status": "INACTIVE",
+      "contacts": [
+        {
+          "firstName": "Rosa",
+          "lastName": "Vargas León",
+          "jobTitle": "Purchasing Lead",
+          "department": "Procurement",
+          "phoneNumber": "+51944455667",
+          "email": "rosa.vargas@globalit.com"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Grau 345",
+        "city": "Trujillo",
+        "stateOrRegion": "La Libertad",
+        "postalCode": "13001",
+        "country": "PE"
       }
-    ],
-    "address": {
-      "addressLine1": "Av. Grau 345",
-      "city": "Trujillo",
-      "stateOrRegion": "La Libertad",
-      "postalCode": "13001",
-      "country": "PE"
-    }
-  },
-  {
-    "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0005",
-    "taxId": "20789123456",
-    "legalName": "SoftCore Solutions SAC",
-    "status": "ACTIVE",
-    "contacts": [
-      {
-        "firstName": "Daniel",
-        "lastName": "Rojas Castillo",
-        "jobTitle": "Business Development Manager",
-        "department": "Business",
-        "phoneNumber": "+51955566778",
-        "email": "daniel.rojas@softcore.pe"
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0005",
+      "taxId": "20789123456",
+      "legalName": "SoftCore Solutions SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Daniel",
+          "lastName": "Rojas Castillo",
+          "jobTitle": "Business Development Manager",
+          "department": "Business",
+          "phoneNumber": "+51955566778",
+          "email": "daniel.rojas@softcore.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. El Derby 250",
+        "city": "Santiago de Surco",
+        "stateOrRegion": "Lima",
+        "postalCode": "15023",
+        "country": "PE"
       }
-    ],
-    "address": {
-      "addressLine1": "Av. El Derby 250",
-      "city": "Santiago de Surco",
-      "stateOrRegion": "Lima",
-      "postalCode": "15023",
-      "country": "PE"
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0006",
+      "taxId": "20891234567",
+      "legalName": "TecnoRed Empresarial SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Paola",
+          "lastName": "Huamán Ríos",
+          "jobTitle": "Key Account Manager",
+          "department": "Sales",
+          "phoneNumber": "+51966677889",
+          "email": "paola.huaman@tecnored.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Canadá 1020",
+        "city": "La Victoria",
+        "stateOrRegion": "Lima",
+        "postalCode": "15034",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0007",
+      "taxId": "20912345678",
+      "legalName": "NorteTech SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Luis",
+          "lastName": "Cruz Paredes",
+          "jobTitle": "Technical Lead",
+          "department": "IT",
+          "phoneNumber": "+51977788990",
+          "email": "luis.cruz@nortetech.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Bolognesi 760",
+        "city": "Piura",
+        "stateOrRegion": "Piura",
+        "postalCode": "20001",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0008",
+      "taxId": "20199887766",
+      "legalName": "DataLink Perú SAC",
+      "status": "INACTIVE",
+      "contacts": [
+        {
+          "firstName": "Andrea",
+          "lastName": "Silva Torres",
+          "jobTitle": "Administrative Coordinator",
+          "department": "Administration",
+          "phoneNumber": "+51988899001",
+          "email": "andrea.silva@datalink.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. San Martín 540",
+        "city": "Chiclayo",
+        "stateOrRegion": "Lambayeque",
+        "postalCode": "14001",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0009",
+      "taxId": "20233445566",
+      "legalName": "Soluciones Integrales del Sur SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Miguel",
+          "lastName": "Condori Mamani",
+          "jobTitle": "Regional Manager",
+          "department": "Management",
+          "phoneNumber": "+51999900112",
+          "email": "miguel.condori@sissur.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Ejército 410",
+        "city": "Cusco",
+        "stateOrRegion": "Cusco",
+        "postalCode": "08002",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0010",
+      "taxId": "20344556677",
+      "legalName": "ByteWorks Solutions SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Renzo",
+          "lastName": "Pacheco Landa",
+          "jobTitle": "Product Specialist",
+          "department": "Products",
+          "phoneNumber": "+51912131415",
+          "email": "renzo.pacheco@byteworks.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Larco 980",
+        "city": "Miraflores",
+        "stateOrRegion": "Lima",
+        "postalCode": "15074",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0011",
+      "taxId": "20455667788",
+      "legalName": "CloudNet Perú SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Sofía",
+          "lastName": "Delgado Núñez",
+          "jobTitle": "Cloud Consultant",
+          "department": "Technology",
+          "phoneNumber": "+51916171819",
+          "email": "sofia.delgado@cloudnet.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Primavera 123",
+        "city": "San Borja",
+        "stateOrRegion": "Lima",
+        "postalCode": "15037",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0012",
+      "taxId": "20566778899",
+      "legalName": "InfraTech Solutions SAC",
+      "status": "INACTIVE",
+      "contacts": [
+        {
+          "firstName": "Héctor",
+          "lastName": "Benavides Salas",
+          "jobTitle": "Infrastructure Manager",
+          "department": "Infrastructure",
+          "phoneNumber": "+51920212223",
+          "email": "hector.benavides@infratech.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Industrial 450",
+        "city": "Callao",
+        "stateOrRegion": "Callao",
+        "postalCode": "07001",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0013",
+      "taxId": "20677889900",
+      "legalName": "MegaSoft Perú SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Natalia",
+          "lastName": "Fernández Quiroz",
+          "jobTitle": "Customer Success Lead",
+          "department": "Customer Success",
+          "phoneNumber": "+51924252627",
+          "email": "natalia.fernandez@megasoft.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Los Héroes 610",
+        "city": "San Juan de Miraflores",
+        "stateOrRegion": "Lima",
+        "postalCode": "15801",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0014",
+      "taxId": "20788990011",
+      "legalName": "RedCorp Technologies SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Iván",
+          "lastName": "Torres Medina",
+          "jobTitle": "Solutions Architect",
+          "department": "Architecture",
+          "phoneNumber": "+51928293031",
+          "email": "ivan.torres@redcorp.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Angamos Oeste 720",
+        "city": "Surquillo",
+        "stateOrRegion": "Lima",
+        "postalCode": "15047",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "b7c4c1a1-0a2f-4c8c-9c22-001a9c9a0015",
+      "taxId": "20899001122",
+      "legalName": "NextGen Distribuciones SAC",
+      "status": "ACTIVE",
+      "contacts": [
+        {
+          "firstName": "Bruno",
+          "lastName": "Reátegui Salinas",
+          "jobTitle": "Channel Manager",
+          "department": "Channels",
+          "phoneNumber": "+51932333435",
+          "email": "bruno.reategui@nextgen.pe"
+        }
+      ],
+      "address": {
+        "addressLine1": "Av. Universitaria 1800",
+        "city": "Los Olivos",
+        "stateOrRegion": "Lima",
+        "postalCode": "15301",
+        "country": "PE"
+      }
     }
-  }
-]
-
+  ]
 }
